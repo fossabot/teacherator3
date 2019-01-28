@@ -48,10 +48,14 @@ Once its deployed go to http://localhost:3000/
 
 ## Built with:
 
-[![Meteor](https://github.com/nicbuitr/f/blob/master/meteor.png)](https://www.meteor.com/) | [![React](https://github.com/nicbuitr/f/blob/master/react.png)](https://reactjs.org/)  | [![Node](https://github.com/nicbuitr/f/blob/master/node.png)](https://nodejs.org) | [![MongoDB](https://github.com/nicbuitr/f/blob/master/mongo.png)](https://www.mongodb.com/)  | [![Bootstrap](https://github.com/nicbuitr/f/blob/master/bootstrap3.png)](https://getbootstrap.com/) | [![Mocha](https://github.com/nicbuitr/f/blob/master/mocha.png)](https://mochajs.org/) | [![Chai](https://github.com/nicbuitr/f/blob/master/chai.png)](https://www.chaijs.com/)
+[![Meteor](https://github.com/nicbuitr/f/blob/master/meteor.png)](https://www.meteor.com/) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnicbuitr%2Fteacherator3.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnicbuitr%2Fteacherator3?ref=badge_shield)
+| [![React](https://github.com/nicbuitr/f/blob/master/react.png)](https://reactjs.org/)  | [![Node](https://github.com/nicbuitr/f/blob/master/node.png)](https://nodejs.org) | [![MongoDB](https://github.com/nicbuitr/f/blob/master/mongo.png)](https://www.mongodb.com/)  | [![Bootstrap](https://github.com/nicbuitr/f/blob/master/bootstrap3.png)](https://getbootstrap.com/) | [![Mocha](https://github.com/nicbuitr/f/blob/master/mocha.png)](https://mochajs.org/) | [![Chai](https://github.com/nicbuitr/f/blob/master/chai.png)](https://www.chaijs.com/)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 
 ## License
 
 MIT © [Nicolás Buitrago Castaño](https://github.com/nicbuitr)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnicbuitr%2Fteacherator3.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnicbuitr%2Fteacherator3?ref=badge_large)
